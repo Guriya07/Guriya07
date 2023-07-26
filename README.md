@@ -1,7 +1,7 @@
 [![MasterHead](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112)](https://github.com/Guriya07)
 <h1 align="center">Hi 👋, I'm guriya07</h1>
 <h3 align="center">Python Full Stack Developer</h3>
-<img aligh="right" alt="coding" weight="200" src="https://img.freepik.com/premium-vector/software-development-programming-language-coding-isometric-pc-computer-with-digital-application-white-background_284092-318.jpg?w=2000" >
+<img aligh="right" alt="coding" weight="100" high="100" src="https://img.freepik.com/premium-vector/software-development-programming-language-coding-isometric-pc-computer-with-digital-application-white-background_284092-318.jpg?w=2000" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guriya07&label=Profile%20views&color=0e75b6&style=flat" alt="guriya07" /> </p>
 
