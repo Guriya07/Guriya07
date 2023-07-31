@@ -37,7 +37,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guriya07&show_icons=false&theme=radical&layout=compact" />
 
 
-<p>&nbsp;<img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=guriya07&show_icons=false&theme=radical&locale=en" alt="guriya07" /></p>
+<p>&nbsp;<img  align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=guriya07&show_icons=false&theme=radical&locale=en" alt="guriya07" /></p>
 
-<p><img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=guriya07&show_icons=false&show_icons=true&theme=radical" alt="guriya07" /></p>
+<p><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=guriya07&show_icons=false&show_icons=true&theme=radical" alt="guriya07" /></p>
 
