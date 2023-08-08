@@ -1,5 +1,4 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/Guriya07)
-
 <h1 align="center">Hi 👋, I'm guriya07</h1>
 <h2 align="center">Python Full Stack Developer</h2>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
