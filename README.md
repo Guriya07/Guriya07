@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Bachelor of Computer Applications**
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤝 I’m looking for help with **Python**
-- 👨‍💻 All of my projects are available at [https://github.com/Guriya07](https://github.com/Guriya07)
+- 👨‍💻 All of my projects are available at[https://github.com/Guriya07](https://github.com/Guriya07)
 - 💬 Ask me about **Python,SQL,JavaScript,CSS,HTML**
 - 📫 How to reach me **guriyaps07@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/guriya-kumari-496507262/](https://www.linkedin.com/in/guriya-kumari-496507262/)
