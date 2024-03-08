@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤝 I’m looking for help with **Python**
 - 👨‍💻 All of my projects are available at[https://github.com/Guriya07](https://github.com/Guriya07)
-- 💬 Ask me about **Python,SQL,JavaScript,CSS,HTML**
+- 💬 Ask me about **Python,SQL,JavaScript,CSS,HTML,PHP,CI4,Django,Botstrap**
 - 📫 How to reach me **guriyaps07@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/guriya-kumari-496507262/](https://www.linkedin.com/in/guriya-kumari-496507262/)
 <h3 align="left">Connect with me:</h3>
