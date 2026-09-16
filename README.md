@@ -28,13 +28,16 @@
 
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guriya07&theme=radical&layout=compact )](https://github.com/guriya07/github-readme-stats)
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guriya07&show_icons=true&locale=en" alt="Guriya's GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guriya07&layout=compact" alt="Top Languages" />
+</p>
 
-<p><img  align="right" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guriya07&show_icons=false&theme=radical&locale=en" alt="guriya07" /></p>
-
-
-<p><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=guriya07&show_icons=false&show_icons=true&theme=radical" alt="guriya07" /></p>
-
-update github profile  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guriya07" alt="GitHub Streak" />
+</p>
