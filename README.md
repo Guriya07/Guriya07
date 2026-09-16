@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **I am a BCA graduate from Manipal University with professional experience in Web Development.**
 - 🎓 I have done **Python Full Stack Developer** course
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning. 🤖**
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **AI/ML, Python, and Data Science projects**
 - 🤝 I’m looking for help with **AI | ML**
 - 👨‍💻 All of my projects are available athttps://github.com/Guriya07
 - 💬 Ask me about **Python,SQL,CSS,HTML,PHP,CI4,Django,Botstrap**
