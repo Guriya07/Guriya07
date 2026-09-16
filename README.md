@@ -1,18 +1,18 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/Guriya07)
 
 <h1 align="center">Hi 👋, I'm Guriya</h1>
-<h2 align="center">AI | ML</h2>
+<h2 align="center">BCA Graduate | Web Developer | Python | AI/ML Learner</h2>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guriya07&label=Profile%20views&color=0e75b6&style=flat" alt="guriya07" /> </p>
 
-- 🔭 I’m currently working on **Python project**
+- 🔭 I’m currently working on **I am a BCA graduate from Manipal University with professional experience in Web Development.**
 - 🎓 I have done **Python Full Stack Developer** course
-- 🌱 I’m currently learning **Bachelor of Computer Applications**
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning. 🤖**
 - 👯 I’m looking to collaborate on **Web Development**
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **AI | ML**
 - 👨‍💻 All of my projects are available athttps://github.com/Guriya07
-- 💬 Ask me about **Python,SQL,JavaScript,CSS,HTML,PHP,CI4,Django,Botstrap**
+- 💬 Ask me about **Python,SQL,CSS,HTML,PHP,CI4,Django,Botstrap**
 - 📫 How to reach me **guriyaps0507@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/guriya-kumari-496507262/](https://www.linkedin.com/in/guriya-kumari-496507262/)
 <h3 align="left">Connect with me:</h3>
